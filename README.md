@@ -39,10 +39,10 @@
 ## Інструкції з Git
 ```bash
 # Клонувати репозиторій
-git clone https://github.com/your-github-username/your-repo-name.git
+git clone https://github.com/kytaets/Front-End-2025-Lab-1
 
 # Перейти в папку
-cd your-repo-name
+cd Front-End-2025-Lab-1
 
 # Додати файл у коміт
 git add index.html
